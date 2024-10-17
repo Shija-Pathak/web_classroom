@@ -14,6 +14,7 @@
 // checkout -b feature1 -- to create a new branch
 // git push -u origin feature1 ( feature 1 is the branch name) -- creates a new branch
 // git checkout main ( takes you to the main branch, main is the branch name) -- to switch branch
-
-
+// git branch --shows the branch you have
+// git branch -a --shows the branch you have
+// git fetch origin -- fetches all server files
 //steps: add, commit, push
