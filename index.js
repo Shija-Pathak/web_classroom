@@ -9,3 +9,11 @@
 //configuring git
 // git commit -m "files added"
 // git remote add origin link
+// git log -- shows commit history
+// git log --oneline  (gives your commit history in one line)
+// checkout -b feature1
+
+
+
+
+//steps: add, commit, push
