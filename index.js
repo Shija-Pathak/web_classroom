@@ -6,6 +6,6 @@
 // git add . --add all files
 // git remote -v -- view the remote origin (push and fetch link)
 // git push -u origin main -- to push
-
 //configuring git
-
+// git commit -m "files added"
+// git remote add origin link
